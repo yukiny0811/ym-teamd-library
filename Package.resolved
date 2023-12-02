@@ -21,7 +21,7 @@
     {
       "identity" : "easy-string",
       "kind" : "remoteSourceControl",
-      "location" : "git@github.com:yukiny0811/easy-string.git",
+      "location" : "https://github.com/yukiny0811/easy-string",
       "state" : {
         "revision" : "a71c5f182e13825b8dd410ef266b853792091d09",
         "version" : "1.0.0"
@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/yukiny0811/easy-utilities",
       "state" : {
-        "revision" : "d7f04d46b880833bd964dbcea925a9d4e49ea0bf",
-        "version" : "1.0.6"
+        "revision" : "e25bcb498e5a9494e201549c8d50c42922d7f210",
+        "version" : "1.0.7"
       }
     },
     {
