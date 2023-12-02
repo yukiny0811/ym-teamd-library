@@ -15,8 +15,8 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/yukiny0811/easy-utilities", from: "1.0.1"),
-        .package(url: "git@github.com:MessageKit/MessageKit.git", from: "4.2.0"),
+        .package(url: "https://github.com/yukiny0811/easy-utilities", from: "1.0.7"),
+        .package(url: "https://github.com/MessageKit/MessageKit", from: "4.2.0"),
     ],
     targets: [
         .target(
